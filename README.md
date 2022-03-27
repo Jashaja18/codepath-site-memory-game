@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 ![Gif 1](https://user-images.githubusercontent.com/67085053/160268368-880e8bba-4322-4725-ae84-bf0f7fa310e6.gif)
-![](gif2-link-here)
+![Gif 2](https://user-images.githubusercontent.com/67085053/160268475-09203e99-c85b-46f5-ae0d-a6d21aeeeb05.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
