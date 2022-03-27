@@ -40,8 +40,7 @@ The following **additional** features are implemented:
 
 ![Gif 1](https://user-images.githubusercontent.com/67085053/160268368-880e8bba-4322-4725-ae84-bf0f7fa310e6.gif)
 ![Gif 2](https://user-images.githubusercontent.com/67085053/160268475-09203e99-c85b-46f5-ae0d-a6d21aeeeb05.gif)
-![](gif3-link-here)
-![](gif4-link-here)
+![Gif 3](https://user-images.githubusercontent.com/67085053/160268505-51c0687c-6e07-4c20-88cc-a2686953eada.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
