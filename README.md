@@ -61,7 +61,7 @@ The main thing I would change if I had more time would be the layout of the butt
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://user-images.githubusercontent.com/67085053/160487034-56846148-5751-47c3-96f9-6ad1f4fa24d1.mp4)
 
 
 ## License
