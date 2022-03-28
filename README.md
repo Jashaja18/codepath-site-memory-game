@@ -44,10 +44,12 @@ The following **additional** features are implemented:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[https://www.w3schools.com/cssref/css_colors.asp, https://www.w3schools.com/colors/color_tryit.asp?color=Chocolate, https://www.w3schools.com/, https://stackoverflow.com/]
+[https://www.w3schools.com/cssref/css_colors.asp, https://www.w3schools.com/colors/color_tryit.asp?color=Chocolate, https://www.w3schools.com/, https://stackoverflow.com/, https://www.youtube.com/]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+[The main challenge I had encountered was with the start stop functionality. When I first built the entire program, I was having trouble with how to switch back and forth from the stop and start functions. It took me having to redo the project from scratch and finding that I made small error such wrong {} were used in places that did not need them and had some problems with the semicolons as well. 
+The main problems on top of this was that I did not know how to use the syntax very well. I have worked with JavaScript but never with HTML or CSS. So, it took a lot longer for me to work on the syntax and try to remember the exact functions and what they did for each. I looked at online resources such as W3schools and stackoverflow for help in understanding the functions and syntax which really helped me solidify my understand of the languages. The start and stop functions were a bit easier to understand and work with after learning the syntax and then I also watch a YouTube video in order to learn more about implementing it. I understood how to write the functions for the stop and start buttons better after reviewing the material given and watching YouTube videos. Overall, this was a tough but very exciting project to work on and I am excited to work more on Web development.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
