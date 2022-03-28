@@ -38,8 +38,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-![Gif 1](https://user-images.githubusercontent.com/67085053/160268368-880e8bba-4322-4725-ae84-bf0f7fa310e6.gif)
-![Gif 2](https://user-images.githubusercontent.com/67085053/160268475-09203e99-c85b-46f5-ae0d-a6d21aeeeb05.gif)
+![Gif 4 new](https://user-images.githubusercontent.com/67085053/160456282-f1dd8cfd-10ef-47c3-8a46-ce8abc90ca92.gif)
+![Gif 5 new](https://user-images.githubusercontent.com/67085053/160456891-852991ee-30b8-40e4-9754-20c480e4f929.gif)
 ![Gif 3](https://user-images.githubusercontent.com/67085053/160268505-51c0687c-6e07-4c20-88cc-a2686953eada.gif)
 
 ## Reflection Questions
