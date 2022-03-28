@@ -54,6 +54,13 @@ button {
     background:yellow;
 }
 
+#button5 {
+    background: darkviolet;
+}
+#button5:active, #button5.lit {
+    background:violet;
+}
+
 /* images and videos max out at full width */
 img,
 video {
