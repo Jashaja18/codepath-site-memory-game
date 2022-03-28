@@ -12,13 +12,13 @@ Link to project: https://glitch.com/edit/#!/like-square-rake?path=README.md%3A10
 
 The following **required** functionality is complete:
 
-* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ ] Game buttons each light up and play a sound when clicked. 
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* [X] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [X] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [X] Game buttons each light up and play a sound when clicked. 
+* [X] Computer plays back sequence of clues including sound and visual cue for each button
+* [X] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [X] User wins the game after guessing a complete pattern
+* [X] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -38,11 +38,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![Gif 1](https://user-images.githubusercontent.com/67085053/160268368-880e8bba-4322-4725-ae84-bf0f7fa310e6.gif)
+![Gif 2](https://user-images.githubusercontent.com/67085053/160268475-09203e99-c85b-46f5-ae0d-a6d21aeeeb05.gif)
+![Gif 3](https://user-images.githubusercontent.com/67085053/160268505-51c0687c-6e07-4c20-88cc-a2686953eada.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
