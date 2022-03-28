@@ -4,7 +4,7 @@
 
 Submitted by: Jashanpreet Jandu
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/like-square-rake?path=README.md%3A10%3A0
 
